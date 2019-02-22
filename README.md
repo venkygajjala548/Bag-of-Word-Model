@@ -1,1 +1,1 @@
-# Bag-of-Word-Model
+# Bag-of-Words-Model
